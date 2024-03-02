@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextFilterApp", "TextFilterApp\TextFilterApp.csproj", "{2BC84DB9-3A31-492A-8D27-507A24DABE73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextFilterApp.Tests", "TextFilterApp.Tests\TextFilterApp.Tests.csproj", "{3A90DAC9-4E2E-496C-8EAA-DC0DB7CA911A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{8443B715-39D2-4E12-A3A3-1357C9A2B605}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC84DB9-3A31-492A-8D27-507A24DABE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC84DB9-3A31-492A-8D27-507A24DABE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC84DB9-3A31-492A-8D27-507A24DABE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC84DB9-3A31-492A-8D27-507A24DABE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A90DAC9-4E2E-496C-8EAA-DC0DB7CA911A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A90DAC9-4E2E-496C-8EAA-DC0DB7CA911A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A90DAC9-4E2E-496C-8EAA-DC0DB7CA911A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A90DAC9-4E2E-496C-8EAA-DC0DB7CA911A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93F11677-FD36-4BE8-9F76-A5346AFDA74D}
+	EndGlobalSection
+EndGlobal
